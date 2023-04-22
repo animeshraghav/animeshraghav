@@ -37,10 +37,10 @@
 
 <!-- <img align="center" alt="GIF" src="coding-freak.gif?raw=true" width="450" height="290" />  -->
 <p align = "left">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityawalture&" alt="adityawalture" align = "left" width="40%">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshraghav&" alt="animeshraghav" align = "left" width="40%">
 </p>
 <p align = "right">
-   <img src = "https://github-readme-stats.vercel.app/api?username=adityawalture&show_icons=true&theme=radical" align = "right" width="55%">
+   <img src = "https://github-readme-stats.vercel.app/api?username=animeshraghav&show_icons=true&theme=radical" align = "right" width="55%">
 </p>
 
 <!-- <p align = "center">
@@ -49,6 +49,6 @@
 <br>
  <p align="center">
 <a href="https://github.com/adityawalture/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=adityawalture&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=animeshraghav&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>

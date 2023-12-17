@@ -15,7 +15,8 @@ Always up and passionate about learning and working with new tech and methods.
 <h3 align="left">Languages and Tools 🛠️</h3>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,react,flutter," />
-    <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,mysql,github,firebase,postman,tensorflow,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,mysql,github,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,tensorflow,vscode,git" />
 </div>
 <br>
 <hr/>

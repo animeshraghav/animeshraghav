@@ -24,5 +24,4 @@ Always up and passionate about learning and working with new tech and methods.
 <hr/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=animeshraghav&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="animeshraghav" /></a> </p>
 <hr/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=animeshraghav&show_icons=true&theme=react"/>
- <img width="355" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshraghav&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshraghav&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> <img src="https://github-readme-stats.vercel.app/api?username=animeshraghav&show_icons=true&theme=react"/>

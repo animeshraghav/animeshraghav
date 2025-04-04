@@ -2,9 +2,9 @@
 <h1 align="center">Hi Folks <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, Animesh here!!</h1>
 <!-- <h3 align="center">I am a Computer Science student & Web developer.</h3> -->
 <h2>A little about me... 👨‍💻</h2>
-Once again myself Animesh Raghav,
-I am an <b>Undergraduate student🎓<a href="https://vitbhopal.ac.in/">@ VIT Bhopal University </a></b> in computer science. Looking out for opportunities to work out with people and have great learning experiences. <br>
-Always up and passionate about learning and working with new tech and methods.
+Meet Animesh Raghav, a <b>Software Engineer🎓 from <a href="https://vitbhopal.ac.in/">@ VIT Bhopal University </a></b>, 
+Embarking on an exciting journey through the endlessly evolving world of technology. With a spark of curiosity, always seeking opportunities to connect with others and embrace new learning adventures.<br>
+Exploring emerging tech and innovative methods, uncovering patterns, and charting his path, step by step, in this vibrant and ever-evolving industry.
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="420" height="290" />     
 <h3 align="left">Connect with me <img width="35px" margin="0px" src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif"> </h3>
 <p align="left">

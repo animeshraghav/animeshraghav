@@ -1,27 +1,76 @@
-![68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67](https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png)
-<h1 align="center">Hi Folks <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, Animesh here!!</h1>
-<!-- <h3 align="center">I am a Computer Science student & Web developer.</h3> -->
-<h2>A little about me... 👨‍💻</h2>
-Meet Animesh Raghav, a <b>Software Engineer🎓 from <a href="https://vitbhopal.ac.in/">@ VIT Bhopal University </a></b>, 
-Embarking on an exciting journey through the endlessly evolving world of technology. With a spark of curiosity, always seeking opportunities to connect with others and embrace new learning adventures.<br>
-Exploring emerging tech and innovative methods, uncovering patterns, and charting his path, step by step, in this vibrant and ever-evolving industry.
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="420" height="290" />     
-<h3 align="left">Connect with me <img width="35px" margin="0px" src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif"> </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/animesh-raghav-b61579217?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQclzpuCKRUiPi75xJmibvQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/animesh-raghav-b61579217/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/animesh_raghav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="animesh_raghav" height="30" width="40" /></a>
-<a href="https://leetcode.com/animesh10raghav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/animesh10raghav/" height="30" width="40" /></a>
+<!-- ---------Profile Banner--------- -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png" alt="banner" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=animeshraghav&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<h3 align="left">Languages and Tools 🛠️</h3>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=python,java,linux,react,javascript" />
-    <img src="https://skillicons.dev/icons?i=github,mongodb,express,nodejs,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=postman,tensorflow,vscode,git" />
+
+<h1 align="center">
+  Hey there 👋, I'm Animesh
+</h1>
+
+
+<!-- ---------About myself--------- -->
+<h2>About Me 👨‍💻</h2>
+
+<p align="center">
+  <em>
+    AI Master's graduate passionate about bridging <strong>research and production-level engineering</strong>.  
+    I specialize in designing scalable systems and translating complex ML algorithms into clean, efficient code.  
+    Constantly exploring the intersection of <strong>AI, system architecture, and modern software craftsmanship</strong>.  
+    Let's create what's next!!
+  </em>
+</p>
+<img align="right" alt="illustration" src="assets/illustration.png" width="420" height="290" />     
+
+<h3 align="left">Current Stack ⚙️</h3> 
+<div align="left"> 
+  <img src="https://skillicons.dev/icons?i=python,linux,next,react,javascript" /><br> 
+  <img src="https://skillicons.dev/icons?i=github,mongodb,express,nodejs,mysql" /><br> 
+  <img src="https://skillicons.dev/icons?i=postman,tensorflow,vscode,git,java" /> 
 </div>
-<br>
-<hr/>
-<h2 align= "center"> Quick Stats <img width="40px" margin="0px"src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" />
-<hr/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=animeshraghav&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="animeshraghav" /></a> </p>
-<hr/>
-<img width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshraghav&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> <img src="https://github-readme-stats.vercel.app/api?username=animeshraghav&show_icons=true&theme=react"/>
+
+<!-- ---------Git Repos' summary--------- -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e90ff,100:00c851&height=6" alt="divider"/>
+</p>
+<h2 align= "center"> Quick Git Insights <img width="30px" margin="0px"src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e90ff,100:00c851&height=6" alt="divider" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=animeshraghav&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="410" src="https://github-readme-stats.vercel.app/api?username=animeshraghav&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshraghav&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e90ff,100:00c851&height=6" alt="divider" />
+</p>
+
+<!-- ---------Social media handles--------- -->
+
+<h3 align="center">Let's Connect 🤝</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/animesh-raghav-b61579217" target="_blank">
+    <img src="assets/logos/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/animesh_raghav/" target="_blank">
+    <img src="assets/logos/instagram.svg" alt="Instagram" height="35" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/animesh10raghav/" target="_blank">
+    <img src="assets/logos/leetcode.svg" alt="LeetCode" height="35" width="40" />
+  </a>
+</p>
+
+---

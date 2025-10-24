@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/animesh-raghav-b61579217" target="_blank">
-    <img src="assets/logos/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
+    <img src="assets/logos/linkedin.svg" alt="LinkedIn" height="35" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/animesh_raghav/" target="_blank">
